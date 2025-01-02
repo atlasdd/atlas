@@ -1,3 +1,4 @@
+
 ## Case Studies Page
 
   - [Evasion of Deep Learning detector for malware C&C traffic](/pages/case-studies-page.md#evasion-of-deep-learning-detector-for-malware-cc-traffic)
@@ -23,7 +24,7 @@ Attacks on machine learning (ML) systems are being developed and released with i
 4. Range of Use case: Attacks on ML systems used in both "security-sensitive" applications like cybersecurity and non-security-sensitive applications like chatbots.
 
 ----
-
+ 
 ## Evasion of Deep Learning detector for malware C&C traffic
 
 **Summary of Incident:** Palo Alto Networks Security AI research team tested a deep learning model for malware command and control (C&C) traffic detection in HTTP traffic. Based on the publicly available paper by Le et al. [1] (open source intelligence), we built a model that was trained on a similar dataset as our production model and had performance similar to it. Then we crafted adversarial samples and queried the model and adjusted the adversarial sample accordingly till the model was evaded.
