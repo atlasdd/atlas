@@ -15,7 +15,7 @@ Please submit a Pull Request with suggested changes! We are excited to make this
     folder. So, you may want to create a rule to go into your inbox
     instead
 
-**Want to work with us on the next iteration of the framework?**
+**Want to work with us on the next iteration of the framework?** 
 - We are partnering with Defcon's AI Village to open up the framework to all community members to get feedback and make it better. Current thinking is to have this event circa
 - Jan/Feb 2021.
     -   Please register here for the workshop for more hands on feedback
